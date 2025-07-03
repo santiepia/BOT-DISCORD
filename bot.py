@@ -43,4 +43,4 @@ async def error_type(ctx, error):
 
 
 
-bot.run("MTMyNjYyOTU2NzE2NjgwODEyNg.G_GdZw.QwQw14eeLM71z7AF4Wp6mntRgDg6ui0oZld48A")
+bot.run("YOUR DICORD BOT'S TOKEN HERE")
